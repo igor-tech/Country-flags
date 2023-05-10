@@ -25,10 +25,10 @@ body[data-theme='dark'] {
     --color-ui-base: hsl(209, 23%, 22%);
     --color-ui-alt: hsl(0, 0%, 52%);
 
-    --shadow: rgba(245, 245, 245, 0.2) 0px 0 8px;
+    --shadow: rgba(245, 245, 245, 0.2) 0 0 8px;
 }
 
-body[data-theme='ligth'] {
+body[data-theme='light'] {
     --colors-text: hsl(200, 15%, 8%);
     --color-bg: hsl(0, 0%, 98%);
     --color-ui-base: hsl(0, 0%, 100%);
