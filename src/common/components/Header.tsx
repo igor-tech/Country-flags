@@ -1,4 +1,4 @@
-import {Container} from 'components/Container';
+import {Container} from 'common/components/Container';
 import React, {useEffect, useState} from 'react';
 import styled from 'styled-components'
 import {IoMoonOutline, IoMoon} from 'react-icons/io5';
